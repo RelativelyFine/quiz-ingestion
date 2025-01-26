@@ -1,0 +1,6 @@
+Test: 4
+Location in stack: 73.79%-100.00% through
+Anomalies:
+Pages are out of order.
+This is likely two tests with a missing first page (contains duplicate pages and over expected page count).
+Duplicate pages: [26]

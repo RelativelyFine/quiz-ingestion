@@ -1,0 +1,4 @@
+Test: 2
+Location in stack: 0.96%-25.00% through
+Anomalies:
+Missing pages: [2]

@@ -1,0 +1,4 @@
+Chunk Index: 0
+Location in stack: 0.00%-22.77%
+Anomalies:
+  Missing pages: [2, 3, 4]
